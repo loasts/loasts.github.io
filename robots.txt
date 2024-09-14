@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loasts.github.io/NMF/sitemap.NMF.gz
